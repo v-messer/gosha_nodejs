@@ -1,0 +1,29 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "example app",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/v-messer/gosha_nodejs.git"
+  },
+  "keywords": [
+    "example",
+    "app"
+  ],
+  "author": "v-messer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/v-messer/gosha_nodejs/issues"
+  },
+  "homepage": "https://github.com/v-messer/gosha_nodejs#readme"
+}
